@@ -1,6 +1,6 @@
 {
   "name": "paul-codex-engineering",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A curated Codex engineering toolkit: durable project context, architecture feedback, TDD, debugging, review, and agent-environment retrospectives.",
   "author": {
     "name": "Paul Grogan",
@@ -17,6 +17,7 @@
     "architecture"
   ],
   "skills": [
+    "./skills/engineering/bisect-debug",
     "./skills/engineering/diagnosing-bugs",
     "./skills/engineering/grill-with-docs",
     "./skills/engineering/improve-codebase-architecture",
